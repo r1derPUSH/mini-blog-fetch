@@ -1,10 +1,10 @@
-##﻿📝 Mini Project: Mini Blog
+## ﻿📝 Mini Project: Mini Blog
 
-##🚀 Project Overview
+## 🚀 Project Overview
 This small project demonstrates how to work with fetch, async/await, and public APIs in JavaScript to GET and POST blog posts.
 Posts are either shown in the console or displayed on the page dynamically.
 
-##🔧 Features
+## 🔧 Features
 GET — Fetch and display a list of posts from a public API
 
 POST — Send a new post using the POST method via fetch
