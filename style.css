@@ -1,0 +1,29 @@
+body {
+    font-size: 1.4rem;
+    display: flex;
+    min-height: 98vh;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(237, 56%, 22%);
+    color: white;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    width: 280px;
+    height: 120px;
+    color: white;
+    background-color: hsl(208, 49%, 49%);
+    border-radius: 50px;
+    cursor: pointer;
+    border: none;
+    font-size: 1.8rem;
+}
+
+button:hover {
+    background-color: hsl(208, 49%, 39%);
+}
