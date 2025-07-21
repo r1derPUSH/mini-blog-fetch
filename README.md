@@ -4,6 +4,9 @@
 This small project demonstrates how to work with fetch, async/await, and public APIs in JavaScript to GET and POST blog posts.
 Posts are either shown in the console or displayed on the page dynamically.
 
+## 🔗 Live Demo
+👉 https://r1derpush.github.io/mini-blog-fetch/
+
 ## 🔧 Features
 GET — Fetch and display a list of posts from a public API
 
@@ -43,6 +46,3 @@ Understand the basics of working with REST APIs
 Practice adding dynamic elements to the DOM
 
 Work with asynchronous code and delays
-
-## 🔗 Live Demo
-👉 
