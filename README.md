@@ -11,7 +11,7 @@ POST — Send a new post using the POST method via fetch
 
 Render — Show the fetched posts in the DOM using JavaScript
 
-##🌐 API Used
+## 🌐 API Used
 We use the free fake REST API JSONPlaceholder:
 
 GET Posts:
@@ -20,7 +20,7 @@ https://jsonplaceholder.typicode.com/posts
 POST Post:
 https://jsonplaceholder.typicode.com/posts
 
-##📦 How It Works
+## 📦 How It Works
 getPosts()
 
 An async function that fetches a list of posts
@@ -35,7 +35,7 @@ An async function that sends a new post object to the API
 
 Includes fields: title, body, userId, id
 
-##💡 Learning Goal
+## 💡 Learning Goal
 Learn how to use fetch() with async/await
 
 Understand the basics of working with REST APIs
@@ -44,5 +44,5 @@ Practice adding dynamic elements to the DOM
 
 Work with asynchronous code and delays
 
-##🔗 Live Demo
+## 🔗 Live Demo
 👉 
